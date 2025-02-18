@@ -1,8 +1,49 @@
-# React + Vite
+📌 ## CS-WIKI
+Esse é um projeto que estou fazendo sozinho para aprender sobre React & TailwindCSS. Também estou utilizando o Vite como ferramenta de build
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Como o projeto está até agora?
+![cs-wiki](https://github.com/user-attachments/assets/441b1fc8-86c5-4ae7-b068-14b17c2644de)
 
-Currently, two official plugins are available:
+🛠️ Tecnologias Utilizadas
+React
+TailwindCSS
+Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚙️ Funcionalidades
+ Funcionalidade 1 - Nada por enquanto
+ 
+🚧 Pré-requisitos e Instalação
+Certifique-se de ter o Node.js instalado na sua máquina.
+
+
+# Clone o repositório
+git clone https://github.com/Fuuuzer/cs-wiki.git
+
+# Entre no diretório
+cd cs-wiki
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm start
+
+
+🤝 Contribuição
+Se você quiser contribuir, siga estes passos:
+
+Faça um fork deste repositório.
+Crie uma branch com a sua feature: git checkout -b minha-feature.
+Commit suas mudanças: git commit -m 'feat: Minha nova feature'.
+Envie para o repositório remoto: git push origin minha-feature.
+Abra um Pull Request.
+
+
+📄 Licença
+Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+👤 Autor
+Feito com ❤️ e 😡 por João Fuzer.
+
+📞 Contato
+Email: fuuzer_@hotmail.com
