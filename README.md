@@ -29,7 +29,7 @@ npm install
 npm start
 
 
-🤝 Contribuição
+#🤝 Contribuição
 
 Se você quiser contribuir, siga estes passos:
 
@@ -40,10 +40,10 @@ Envie para o repositório remoto: git push origin minha-feature.
 Abra um Pull Request.
 
 
-📄 Licença
+#📄 Licença
 Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-👤 Autor
+#👤 Autor
 Feito com ❤️ e 😡 por João Fuzer.
 
 📞 Contato
