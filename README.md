@@ -43,7 +43,7 @@ Abra um Pull Request.
 📄 #Licença
 Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-👤 #Autor
+
 Feito com ❤️ e 😡 por João Fuzer.
 
 📞 #Contato
