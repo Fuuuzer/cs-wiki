@@ -6,7 +6,7 @@ import Cards from "./components/Cards";
 
 function App() {
   return (
-    <div className="bg-gray-900 flex flex-col gap-10">
+    <div className="bg-gray-900 flex flex-col gap">
       <Header />
       <Hero />
       <Cards />

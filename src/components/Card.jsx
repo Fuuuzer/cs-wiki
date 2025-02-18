@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = ({ gun }) => {
   return (
-    <div className="flex flex-wrap gap-6 text-white border max-w-[300px] rounded">
+    <div className="flex flex-wrap gap-6 text-white border w-[300px] rounded">
       <div className="flex flex-col rounded p-6 w-full">
         <div className="bg-blue-900 rounded-lg">
           <img

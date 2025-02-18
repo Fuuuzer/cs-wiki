@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <>
       <header className=" text-black bg-amber-500">
-        <nav className="flex place-content-between items-center max-w-[1200px] m-auto max-md:flex-col px-6 py-4 ">
+        <nav className="flex place-content-between items-center max-w-[1200px] m-auto max-md:flex-col px-6 py-4">
           <div>
             <img
               className="block w-56 cursor-pointer"

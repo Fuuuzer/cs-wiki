@@ -3,8 +3,8 @@ import React from "react";
 const Hero = () => {
   return (
     <>
-      <div className="bg-gray-900">
-        <main className="grid grid-cols-2 max-w-[1200px] m-auto p-6 gap-5 text-white">
+      <div className="bg-gray-900 mt-20 after:bg-white after:max-w-[30%] after:block after:h-[1px] after:mx-auto">
+        <main className="grid grid-cols-2 max-w-[1200px] mx-auto p-6 gap-5 text-white mb-10">
           <div>
             <img
               className="block w-full rounded shadow-sm"
@@ -22,6 +22,7 @@ const Hero = () => {
               quisquam repellendus tenetur pariatur at, non asperiores delectus
               aut nesciunt iure eius! Minima sed vel perspiciatis!
             </p>
+            <span className=""></span>
           </div>
         </main>
       </div>
