@@ -1,4 +1,5 @@
 import React from "react";
+import Gun from "./Gun";
 
 const Card = ({ gun }) => {
   return (
