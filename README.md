@@ -1,4 +1,4 @@
-📌 # CS-WIKI
+# 📌 CS-WIKI
 Esse é um projeto que estou fazendo sozinho para aprender sobre React & TailwindCSS. Também estou utilizando o Vite como ferramenta de build
 
 🚀 Como o projeto está até agora?
