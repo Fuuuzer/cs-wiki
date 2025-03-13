@@ -1,10 +1,9 @@
 import React from "react";
-import Card from "./Card";
 import Gun from "./Gun";
 
 const Cards = () => {
   return (
-    <div className="flex max-w-[1200px] mx-auto">
+    <div className="flex flex-wrap p-6 max-w-[1200px] mx-auto gap-10 shrink">
       <Gun />
     </div>
 

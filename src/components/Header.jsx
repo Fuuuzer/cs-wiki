@@ -8,7 +8,7 @@ const Header = () => {
           <div>
             <img
               className="block w-56 cursor-pointer"
-              src="./public/Counter-Strike_2_logo.svg"
+              src="/Counter-Strike_2_logo.svg"
               alt=""
             />
           </div>

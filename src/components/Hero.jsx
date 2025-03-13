@@ -8,12 +8,12 @@ const Hero = () => {
           <div>
             <img
               className="block w-full rounded shadow-sm"
-              src="./public/cs-2.jpg"
+              src="./cs-2.jpg"
               alt=""
             />
           </div>
           <div>
-            <h2 className="font-bold text-3xl text-amber-500 mb-3">
+            <h2 className="font-bold text-3xl text-amber-300 mb-3">
               O que é o Counter Strike?
             </h2>
             <p className="text-base">
