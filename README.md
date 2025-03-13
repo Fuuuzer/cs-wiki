@@ -1,35 +1,35 @@
 # CS-WIKI
 Esse é um projeto que estou fazendo sozinho para aprender sobre React & TailwindCSS. Também estou utilizando o Vite como ferramenta de build
 
-# 🚀Como o projeto está até agora?
+## 🚀Como o projeto está até agora?
 ![cs-wiki](https://github.com/user-attachments/assets/441b1fc8-86c5-4ae7-b068-14b17c2644de)
 
-# 🛠️Tecnologias Utilizadas 
+## 🛠️Tecnologias Utilizadas 
 React
 TailwindCSS
 Vite
 
-# ⚙️Funcionalidades
+## ⚙️Funcionalidades
  Funcionalidade 1 - Nada por enquanto
  
 ## 🚧Pré-requisitos e Instalação
 Certifique-se de ter o Node.js instalado na sua máquina.
 
 
-# Clone o repositório
+## Clone o repositório
 git clone https://github.com/Fuuuzer/cs-wiki.git
 
-# Entre no diretório
+## Entre no diretório
 cd cs-wiki
 
-# Instale as dependências
+## Instale as dependências
 npm install
 
-# Rode o projeto
+## Rode o projeto
 npm start
 
 
-🤝 #Contribuição
+# 🤝Contribuição
 
 Se você quiser contribuir, siga estes passos:
 
@@ -40,11 +40,8 @@ Envie para o repositório remoto: git push origin minha-feature.
 Abra um Pull Request.
 
 
-📄 #Licença
-Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+#📄Licença
+Este projeto está sob a licença MIT
 
 
 Feito com ❤️ e 😡 por João Fuzer.
-
-📞 #Contato
-Email: fuuzer_@hotmail.com
