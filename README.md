@@ -35,8 +35,11 @@ Se você quiser contribuir, siga estes passos:
 
 Faça um fork deste repositório.
 Crie uma branch com a sua feature: git checkout -b minha-feature.
+
 Commit suas mudanças: git commit -m 'feat: Minha nova feature'.
+
 Envie para o repositório remoto: git push origin minha-feature.
+
 Abra um Pull Request.
 
 
