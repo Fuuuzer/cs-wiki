@@ -8,10 +8,10 @@ import Gun from "./components/Gun";
 function App() {
   return (
     <div className="bg-gray-900 flex flex-col gap">
-      {/* <Header />
+      <Header />
       <Hero />
-      <Cards /> */}
-      <Gun />
+      <h1 className="font-bold text-4xl text-center mt-10 text-orange-400">Armas</h1>
+      <Cards />
     </div>
   );
 }
