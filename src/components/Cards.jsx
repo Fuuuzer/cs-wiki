@@ -3,7 +3,7 @@ import Gun from "./Gun";
 
 const Cards = () => {
   return (
-    <div className="flex flex-wrap p-6 max-w-[1200px] mx-auto gap-10 shrink">
+    <div className="flex flex-wrap p-6 max-w-[1200px] mx-auto gap-10 justify-center">
       <Gun />
     </div>
 
